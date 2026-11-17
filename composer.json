@@ -27,7 +27,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "ITMOSOFT\\\\SellerVerification\\\\SellerVerificationServiceProvider"
+        "ITMOSOFT\\SellerVerification\\SellerVerificationServiceProvider"
       ]
     }
   },
@@ -42,5 +42,5 @@
   },
   "minimum-stability": "stable",
   "prefer-stable": true,
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

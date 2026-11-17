@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 - 2026-11-17
+
+- Fixed Laravel auto-discovery provider namespace in Composer metadata.
+- Reconfirmed Composer PSR-4 mappings for package and test classes.
+
 ## 1.0.1 - 2026-11-17
 
 - Fixed Composer PSR-4 namespace mappings for package classes and test classes.

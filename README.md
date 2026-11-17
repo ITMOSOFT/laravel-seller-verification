@@ -4,7 +4,7 @@ A reusable seller/business verification workflow for Laravel applications. It su
 
 ## Version
 
-Current package version: `1.0.1`.
+Current package version: `1.0.2`.
 
 ## Requirements
 
