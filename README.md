@@ -2,6 +2,10 @@
 
 A reusable seller/business verification workflow for Laravel applications. It supports polymorphic sellers and reviewers, document metadata, review decisions, resubmission, and expiry tracking.
 
+## Version
+
+Current package version: `1.0.1`.
+
 ## Requirements
 
 - PHP 8.3+

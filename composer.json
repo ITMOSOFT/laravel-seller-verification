@@ -16,12 +16,12 @@
   },
   "autoload": {
     "psr-4": {
-      "ITMOSOFT\\\\SellerVerification\\\\": "src/"
+      "ITMOSOFT\\SellerVerification\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "ITMOSOFT\\\\SellerVerification\\\\Tests\\\\": "tests/"
+      "ITMOSOFT\\SellerVerification\\Tests\\": "tests/"
     }
   },
   "extra": {
@@ -41,5 +41,6 @@
     }
   },
   "minimum-stability": "stable",
-  "prefer-stable": true
+  "prefer-stable": true,
+  "version": "1.0.1"
 }

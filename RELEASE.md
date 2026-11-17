@@ -22,20 +22,20 @@ Run these from the existing, already-connected repository. These commands are pr
 
 ```bash
 git add .
-git commit -m "feat: add seller verification workflows"
+git commit -m "fix: correct seller verification autoload mappings"
 git push origin main
 ```
 
 After tests and CI pass:
 
 ```bash
-git tag -a v1.0.0 -m "Release v1.0.0"
-git push origin v1.0.0
+git tag -a v1.0.1 -m "Release v1.0.1"
+git push origin v1.0.1
 ```
 
 ## GitHub Release
 
-Title: `v1.0.0 - Seller Verification`
+Title: `v1.0.1 - Seller Verification`
 
 Description:
 
@@ -66,4 +66,4 @@ This package manages workflow state and document metadata. File upload, private-
 2. Submit `https://github.com/ITMOSOFT/laravel-seller-verification`.
 3. Confirm the package name is `itmosoft/laravel-seller-verification`.
 4. Configure the GitHub service hook if prompted.
-5. Verify Packagist detects the `v1.0.0` tag and that `composer require itmosoft/laravel-seller-verification` resolves.
+5. Verify Packagist detects the `v1.0.1` tag and that `composer require itmosoft/laravel-seller-verification` resolves.

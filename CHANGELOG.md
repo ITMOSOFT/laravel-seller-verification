@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 - 2026-11-17
+
+- Fixed Composer PSR-4 namespace mappings for package classes and test classes.
+
 ## 1.0.0 - 2026-11-17
 
 - Initial release.
